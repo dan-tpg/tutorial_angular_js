@@ -1,6 +1,9 @@
  <!DOCTYPE html>
 <html lang="en-US">
 <script src="/assets/js/angular.min.js"></script>
+<header>
+<meta name="author" content="Danilo D'Auria">
+</header>
 <body>
 
 <div ng-app="myApp" ng-controller="customersCtrl">
