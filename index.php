@@ -2,7 +2,10 @@
 <html lang="en-US">
 <script src="/assets/js/angular.min.js"></script>
 <script src="/assets/js/jquery-2.1.4.min.js"></script>
-<header><title>Tutorial - Angular JS</title></header>
+<header>
+<title>Tutorial - Angular JS</title>
+<meta name="author" content="Danilo D'Auria">
+</header>
 <body>
 <h1>Tutorial - Angular JS</h1>
 <script>
