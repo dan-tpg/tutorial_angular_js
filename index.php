@@ -7,7 +7,7 @@
 <meta name="author" content="Danilo D'Auria">
 </header>
 <body>
-<h1>Tutorial - Angular JS</h1>
+<h1>Tutorial - Angular JS 2015</h1>
 <script>
 $.ajax({
 	  url: "http://angularjs/pages/",
