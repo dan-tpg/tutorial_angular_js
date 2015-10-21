@@ -8,6 +8,7 @@
 </header>
 <body>
 <h1>Tutorial - Angular JS 2015</h1>
+<p>Please find below a list of examples sing AngularJS:</p>
 <script>
 $.ajax({
 	  url: "http://angularjs/pages/",
